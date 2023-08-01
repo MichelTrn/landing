@@ -1,0 +1,24 @@
+.footer{
+  background-color: #2C2B2B;
+  height: 200px;
+  padding: 50px;
+}
+
+.list-inline{
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li{
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.footer li{
+  color : #1CDD87;
+  font-size: 40px;
+}
+
+.footer p{
+  color : #505050;
+}
